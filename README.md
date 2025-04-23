@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulesssL
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP / Three.js
+- 🌱 I’m currently learning Electron.js with REACT
 - 💞️ I’m looking to collaborate on web applications for enterprises
 - 📫 Reach me thanks to this email : julesleroux15@gmail.com  
 
