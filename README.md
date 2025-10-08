@@ -10,7 +10,7 @@ Je suis **étudiant en développement informatique** basé à **Lille**.
 
 Ce que vous trouverez ici :
 
-* Des projets personnels axés sur.
+* Des projets personnels.
 * Des contributions à des projets.
 * Mes apprentissages
 
