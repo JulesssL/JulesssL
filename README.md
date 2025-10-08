@@ -1,6 +1,6 @@
-# Salut ! Je suis Jules (JulesssL) 👋
+# Salut ! Je suis Jules (JulesssL) 
 
-### Développeur | Alternant Front & Back chez **QareData** 🚀
+### Développeur | Alternant Front & Back chez **QareData** 
 
 ---
 
@@ -16,7 +16,7 @@ Ce que vous trouverez ici :
 
 ---
 
-## 🛠️ Ma Pile Technologique
+## Ma Pile Technologique
 
 Voici quelques-unes des technologies avec lesquelles j'aime travailler :
 
@@ -29,12 +29,12 @@ Voici quelques-unes des technologies avec lesquelles j'aime travailler :
 
 ---
 
-## 🤝 Connectons-nous !
+## Connectons-nous !
 
 Je suis toujours ouvert aux discussions sur la technologie, aux opportunités de collaboration, ou à l'échange d'idées.
 
-* **LinkedIn :** [Ici](https://www.linkedin.com/in/jules-leroux/)
-* **Email :** julesleroux15@gmail.com
+* **LinkedIn :** (https://www.linkedin.com/in/jules-leroux/)
+* **Email :** (mailto:julesleroux15@gmail.com)
 
 ---
 
